@@ -21,6 +21,8 @@ select round(avg(length/60)) as length_hours_avg,
 round(avg(length%60)) as length_minutes_avg
 from film; #2:30
 
+select time_format(sec_to_time(round(avg(length)*60)), '%H:%i') from film;
+
 #5. How many distinct (different) actors' last names are there?
 
 select distinct count(last_name) from actor; #200

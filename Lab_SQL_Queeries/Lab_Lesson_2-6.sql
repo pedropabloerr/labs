@@ -34,6 +34,8 @@ drop column picture;
 select * from customer
 where last_name regexp 'SANDERS';
 
+	#alternative #where first_name = 'TAMMY' and where last_name = "SANDERS"
+
 insert into staff
 values ('3', 'Tammy', 'Sanders', '79', 'TAMMY.SANDERS@sakilacustomer.org', '2', '1', 'Tammy', '', current_date);
 
