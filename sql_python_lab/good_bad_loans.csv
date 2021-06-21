@@ -1,0 +1,683 @@
+account_id,loan_id,balance,status_description
+6034,6228,456778.0,defaulter-contract finished
+2176,5395,290780.0,defaulter-contract finished
+6051,6232,268975.0,defaulter-contract finished
+6118,6244,263130.0,defaulter-contract finished
+8566,6738,223825.0,defaulter-contract finished
+10131,7066,209405.0,defaulter-contract finished
+790,5126,203792.0,defaulter-contract finished
+1106,5176,184529.0,defaulter-contract finished
+7824,6594,181792.0,defaulter-contract finished
+347,5045,179423.0,defaulter-contract finished
+5442,6112,167463.0,defaulter-contract finished
+5428,6111,167463.0,defaulter-contract finished
+11021,7241,161943.0,defaulter-contract finished
+1527,5269,159495.0,defaulter-contract finished
+4081,5805,132158.0,defaulter-contract finished
+1787,5314,88363.0,defaulter-contract finished
+3273,5643,86636.0,defaulter-contract finished
+5927,6210,85399.0,defaulter-contract finished
+10266,7097,72473.0,defaulter-contract finished
+6473,6316,70499.0,defaulter-contract finished
+6400,6303,69391.0,defaulter-contract finished
+4462,5892,63710.0,defaulter-contract finished
+1993,5352,62700.0,defaulter-contract finished
+5066,6027,59087.0,defaulter-contract finished
+6609,6342,58485.0,defaulter-contract finished
+1888,5338,52580.0,defaulter-contract finished
+4320,5856,47080.0,defaulter-contract finished
+8073,6650,45210.0,defaulter-contract finished
+7418,6501,27753.0,defaulter-contract finished
+19,4961,27753.0,defaulter-contract finished
+9199,6865,26994.0,defaulter-contract finished
+7542,6534,580973.0,good - on track
+8926,6791,557196.0,good - on track
+817,5132,529525.0,good - on track
+2936,5569,495600.0,good - on track
+7049,6436,486927.0,good - on track
+6950,6415,465770.0,good - on track
+339,5043,460259.0,good - on track
+2516,5486,456887.0,good - on track
+4774,5970,455383.0,good - on track
+3679,5725,435596.0,good - on track
+2910,5561,430169.0,good - on track
+2545,5491,419851.0,good - on track
+11349,7304,412882.0,good - on track
+10297,7101,412237.0,good - on track
+10520,7154,410640.0,good - on track
+8377,6704,410109.0,good - on track
+2246,5419,408870.0,good - on track
+4190,5830,399017.0,good - on track
+4650,5938,395300.0,good - on track
+5181,6055,392468.0,good - on track
+6226,6272,391996.0,good - on track
+1862,5329,389518.0,good - on track
+11186,7271,385919.0,good - on track
+6592,6338,384149.0,good - on track
+7637,6554,381969.0,good - on track
+3005,5589,381875.0,good - on track
+1374,5236,381029.0,good - on track
+1808,5318,377551.0,good - on track
+1093,5174,377081.0,good - on track
+2912,5563,373824.0,good - on track
+9455,6926,368514.0,good - on track
+7795,6585,365918.0,good - on track
+319,5041,362850.0,good - on track
+5422,6109,362732.0,good - on track
+4948,6006,353764.0,good - on track
+2572,5494,352500.0,good - on track
+105,4989,345356.0,good - on track
+10280,7100,342318.0,good - on track
+5477,6118,342113.0,good - on track
+2245,5418,340703.0,good - on track
+9504,6938,335592.0,good - on track
+10774,7195,332102.0,good - on track
+3906,5772,329043.0,good - on track
+2754,5532,328295.0,good - on track
+9869,7004,326034.0,good - on track
+330,5042,324676.0,good - on track
+4354,5865,322199.0,good - on track
+6062,6235,316004.0,good - on track
+4456,5889,315886.0,good - on track
+3115,5611,315827.0,good - on track
+9037,6821,315229.0,good - on track
+7614,6550,313913.0,good - on track
+5072,6028,312228.0,good - on track
+11317,7292,312169.0,good - on track
+10942,7227,309278.0,good - on track
+2279,5435,308132.0,good - on track
+10065,7050,304748.0,good - on track
+8320,6695,304499.0,good - on track
+7562,6540,303150.0,good - on track
+915,5145,303103.0,good - on track
+10202,7085,299061.0,good - on track
+5313,6087,295649.0,good - on track
+9859,7001,295590.0,good - on track
+2445,5469,288274.0,good - on track
+6678,6350,288251.0,good - on track
+2000,5354,285973.0,good - on track
+4949,6007,283880.0,good - on track
+8558,6736,283554.0,good - on track
+7045,6435,282705.0,good - on track
+5632,6153,280840.0,good - on track
+9241,6877,280486.0,good - on track
+940,5148,279542.0,good - on track
+11328,7295,275766.0,good - on track
+9646,6962,273258.0,good - on track
+5263,6073,271695.0,good - on track
+3293,5644,268415.0,good - on track
+2933,5568,267978.0,good - on track
+9167,6859,267683.0,good - on track
+2055,5365,266739.0,good - on track
+3664,5719,265926.0,good - on track
+6358,6296,264751.0,good - on track
+2872,5556,263848.0,good - on track
+10644,7167,262465.0,good - on track
+10478,7147,262025.0,good - on track
+8405,6712,261783.0,good - on track
+501,5082,258597.0,good - on track
+4994,6012,251265.0,good - on track
+3137,5614,249334.0,good - on track
+1071,5170,248980.0,good - on track
+1068,5169,248980.0,good - on track
+10613,7164,244588.0,good - on track
+1967,5350,244118.0,good - on track
+6157,6254,242755.0,good - on track
+8327,6698,242567.0,good - on track
+4260,5837,240484.0,good - on track
+9627,6955,239277.0,good - on track
+8645,6748,236885.0,good - on track
+5305,6083,235517.0,good - on track
+1811,5319,235469.0,good - on track
+10233,7088,235174.0,good - on track
+8158,6675,232085.0,good - on track
+7099,6450,229454.0,good - on track
+5742,6178,227715.0,good - on track
+5724,6173,227715.0,good - on track
+10063,7049,226940.0,good - on track
+378,5051,226560.0,good - on track
+2699,5520,226352.0,good - on track
+2262,5428,223825.0,good - on track
+9510,6940,221935.0,good - on track
+5628,6151,221663.0,good - on track
+9491,6932,220806.0,good - on track
+5591,6142,218182.0,good - on track
+8411,6715,216943.0,good - on track
+7713,6568,216766.0,good - on track
+4413,5876,216670.0,good - on track
+4784,5973,214884.0,good - on track
+8094,6660,214305.0,good - on track
+10022,7037,213521.0,good - on track
+9179,6861,211456.0,good - on track
+11096,7255,209745.0,good - on track
+2080,5369,208635.0,good - on track
+4852,5989,207375.0,good - on track
+4144,5823,207060.0,good - on track
+525,5086,206001.0,good - on track
+10005,7035,204890.0,good - on track
+3418,5674,202946.0,good - on track
+10645,7168,202545.0,good - on track
+4746,5963,201367.0,good - on track
+1011,5160,200600.0,good - on track
+7176,6468,200541.0,good - on track
+1876,5334,200330.0,good - on track
+5362,6097,198622.0,good - on track
+1772,5312,197155.0,good - on track
+2456,5470,196789.0,good - on track
+2345,5450,196352.0,good - on track
+10650,7171,192136.0,good - on track
+10404,7129,191042.0,good - on track
+6924,6403,190820.0,good - on track
+7082,6442,190115.0,good - on track
+10679,7181,189566.0,good - on track
+10019,7036,189525.0,good - on track
+7606,6545,188682.0,good - on track
+9227,6872,188387.0,good - on track
+4447,5886,187390.0,good - on track
+1528,5270,187107.0,good - on track
+1580,5281,186162.0,good - on track
+9093,6836,186145.0,good - on track
+960,5151,185909.0,good - on track
+1656,5293,185838.0,good - on track
+9493,6933,184757.0,good - on track
+1004,5158,183295.0,good - on track
+8931,6793,183195.0,good - on track
+8639,6746,182546.0,good - on track
+9006,6810,182501.0,good - on track
+2228,5414,182078.0,good - on track
+5912,6207,181543.0,good - on track
+9353,6908,180757.0,good - on track
+1318,5226,180390.0,good - on track
+2218,5409,179006.0,good - on track
+1250,5209,178835.0,good - on track
+6397,6302,178003.0,good - on track
+4981,6011,175592.0,good - on track
+873,5140,175525.0,good - on track
+5602,6147,173806.0,good - on track
+5837,6196,172865.0,good - on track
+3556,5698,171926.0,good - on track
+2035,5360,171430.0,good - on track
+9645,6961,171255.0,good - on track
+8533,6732,170422.0,good - on track
+8547,6734,168210.0,good - on track
+8713,6755,167855.0,good - on track
+3562,5699,167670.0,good - on track
+5283,6078,167273.0,good - on track
+7632,6552,166897.0,good - on track
+1718,5304,165094.0,good - on track
+10079,7055,164315.0,good - on track
+4725,5956,163590.0,good - on track
+1498,5265,163017.0,good - on track
+2496,5482,162368.0,good - on track
+9225,6871,160834.0,good - on track
+4999,6014,160580.0,good - on track
+4293,5850,159635.0,good - on track
+4681,5942,159236.0,good - on track
+9156,6856,158795.0,good - on track
+110,4990,158060.0,good - on track
+1886,5337,157955.0,good - on track
+3608,5706,157010.0,good - on track
+276,5027,156450.0,good - on track
+2350,5451,156416.0,good - on track
+3629,5713,156114.0,good - on track
+4079,5804,155664.0,good - on track
+7997,6633,153962.0,good - on track
+2728,5527,153813.0,good - on track
+5395,6104,153790.0,good - on track
+9560,6948,152705.0,good - on track
+3021,5591,152374.0,good - on track
+9030,6818,152374.0,good - on track
+785,5124,151760.0,good - on track
+10728,7189,151434.0,good - on track
+7565,6541,150306.0,good - on track
+10915,7221,149919.0,good - on track
+7240,6486,149624.0,good - on track
+11244,7279,149270.0,good - on track
+7894,6607,148890.0,good - on track
+4969,6010,147677.0,good - on track
+3875,5765,147522.0,good - on track
+4116,5815,147000.0,good - on track
+5385,6103,146851.0,good - on track
+6461,6313,146720.0,good - on track
+11054,7246,146438.0,good - on track
+1252,5210,144025.0,good - on track
+7990,6632,141940.0,good - on track
+3353,5656,139978.0,good - on track
+1819,5320,139685.0,good - on track
+5572,6136,138532.0,good - on track
+1698,5301,138005.0,good - on track
+3460,5683,137757.0,good - on track
+10812,7202,137757.0,good - on track
+7733,6571,134228.0,good - on track
+6922,6402,133676.0,good - on track
+4503,5900,132540.0,good - on track
+9790,6992,131177.0,good - on track
+10134,7067,130686.0,good - on track
+2622,5501,130663.0,good - on track
+3907,5773,128271.0,good - on track
+10493,7151,128225.0,good - on track
+7594,6544,127746.0,good - on track
+3143,5616,125442.0,good - on track
+8026,6641,124705.0,good - on track
+6699,6355,124550.0,good - on track
+8899,6785,123251.0,good - on track
+1242,5206,123188.0,good - on track
+5794,6190,121540.0,good - on track
+6856,6386,120890.0,good - on track
+3112,5610,120649.0,good - on track
+1389,5241,120244.0,good - on track
+1407,5245,120244.0,good - on track
+1480,5260,119875.0,good - on track
+9201,6866,117369.0,good - on track
+11069,7250,116654.0,good - on track
+5269,6076,115463.0,good - on track
+9730,6984,114106.0,good - on track
+10963,7233,112595.0,good - on track
+6686,6353,111642.0,good - on track
+10884,7213,110390.0,good - on track
+10243,7091,110285.0,good - on track
+303,5034,109620.0,good - on track
+38,4968,108429.0,good - on track
+7437,6508,108429.0,good - on track
+993,5154,106908.0,good - on track
+3942,5779,104370.0,good - on track
+4052,5799,103180.0,good - on track
+4660,5940,102488.0,good - on track
+675,5110,100536.0,good - on track
+226,5015,100232.0,good - on track
+344,5044,99297.0,good - on track
+6649,6346,98589.0,good - on track
+1447,5253,97995.0,good - on track
+8114,6665,97645.0,good - on track
+4907,5999,96773.0,good - on track
+5698,6168,96460.0,good - on track
+8169,6677,96347.0,good - on track
+6495,6320,96217.0,good - on track
+4342,5862,95956.0,good - on track
+9377,6913,95772.0,good - on track
+7180,6469,95588.0,good - on track
+3916,5774,94290.0,good - on track
+6985,6421,94080.0,good - on track
+4715,5953,93127.0,good - on track
+4473,5895,92394.0,good - on track
+2720,5525,91280.0,good - on track
+7674,6562,90551.0,good - on track
+309,5036,89347.0,good - on track
+9928,7013,87851.0,good - on track
+2580,5495,87851.0,good - on track
+5317,6088,87675.0,good - on track
+8321,6696,87556.0,good - on track
+10351,7115,86856.0,good - on track
+8772,6763,86433.0,good - on track
+9673,6969,85750.0,good - on track
+854,5138,85399.0,good - on track
+8523,6730,85283.0,good - on track
+8492,6726,84429.0,good - on track
+4631,5933,83881.0,good - on track
+6289,6283,83848.0,good - on track
+4467,5893,83790.0,good - on track
+6265,6278,83720.0,good - on track
+8680,6751,83335.0,good - on track
+440,5061,82532.0,good - on track
+4033,5790,82532.0,good - on track
+9235,6875,81545.0,good - on track
+2064,5367,81305.0,good - on track
+9424,6922,81305.0,good - on track
+2988,5585,81224.0,good - on track
+4533,5906,78890.0,good - on track
+9208,6868,78706.0,good - on track
+6353,6294,78588.0,good - on track
+7890,6605,77691.0,good - on track
+5944,6215,77080.0,good - on track
+5445,6113,76510.0,good - on track
+7745,6574,75390.0,good - on track
+2165,5389,75325.0,good - on track
+3230,5635,75040.0,good - on track
+6510,6322,73784.0,good - on track
+8919,6790,72933.0,good - on track
+3862,5760,72835.0,good - on track
+1270,5214,72695.0,good - on track
+7136,6461,72065.0,good - on track
+7262,6490,72039.0,good - on track
+789,5125,71534.0,good - on track
+8784,6766,71254.0,good - on track
+3403,5669,69825.0,good - on track
+2247,5420,69483.0,good - on track
+2143,5385,69475.0,good - on track
+9024,6817,69184.0,good - on track
+9159,6857,68150.0,good - on track
+2725,5526,67690.0,good - on track
+5358,6095,67201.0,good - on track
+10762,7194,66920.0,good - on track
+3448,5681,65803.0,good - on track
+11271,7286,65450.0,good - on track
+6138,6249,64791.0,good - on track
+314,5039,64055.0,good - on track
+4616,5930,63917.0,good - on track
+6706,6357,63779.0,good - on track
+2753,5531,63664.0,good - on track
+4585,5923,63309.0,good - on track
+7190,6474,62304.0,good - on track
+1638,5287,61548.0,good - on track
+4550,5909,60298.0,good - on track
+10440,7138,59000.0,good - on track
+3953,5782,58278.0,good - on track
+4803,5977,57904.0,good - on track
+9631,6956,56971.0,good - on track
+10905,7219,55930.0,good - on track
+8092,6659,55165.0,good - on track
+5180,6054,53867.0,good - on track
+1928,5346,53314.0,good - on track
+10436,7136,52885.0,good - on track
+5133,6044,52305.0,good - on track
+5118,6037,52123.0,good - on track
+9153,6855,50785.0,good - on track
+2824,5549,49619.0,good - on track
+1083,5172,49560.0,good - on track
+2352,5452,48616.0,good - on track
+1284,5221,48136.0,good - on track
+9031,6819,48024.0,good - on track
+6902,6399,47950.0,good - on track
+7156,6464,47426.0,good - on track
+2994,5586,47390.0,good - on track
+2334,5446,46299.0,good - on track
+11027,7242,46092.0,good - on track
+7181,6470,45716.0,good - on track
+9548,6944,45214.0,good - on track
+7274,6495,44957.0,good - on track
+8972,6805,44086.0,good - on track
+1906,5343,43079.0,good - on track
+9433,6923,42780.0,good - on track
+2073,5368,42780.0,good - on track
+10215,7087,42458.0,good - on track
+10652,7172,41910.0,good - on track
+7721,6569,41668.0,good - on track
+1776,5313,41400.0,good - on track
+4099,5808,40984.0,good - on track
+349,5046,39248.0,good - on track
+7636,6553,38852.0,good - on track
+4268,5841,38489.0,good - on track
+2982,5582,37818.0,good - on track
+11327,7294,37536.0,good - on track
+3390,5665,37246.0,good - on track
+1869,5332,36890.0,good - on track
+6505,6321,35288.0,good - on track
+1244,5207,35156.0,good - on track
+10257,7096,34661.0,good - on track
+8038,6643,34362.0,good - on track
+8776,6764,33276.0,good - on track
+5541,6130,31960.0,good - on track
+9677,6970,31093.0,good - on track
+10799,7200,30621.0,good - on track
+1766,5311,29559.0,good - on track
+10345,7110,28655.0,good - on track
+3161,5620,27511.0,good - on track
+6097,6242,25480.0,good - on track
+10711,7187,23777.0,good - on track
+2986,5584,23759.0,good - on track
+6688,6354,22330.0,good - on track
+2134,5382,22295.0,good - on track
+938,5147,21889.0,good - on track
+5164,6052,21735.0,good - on track
+10445,7139,21461.0,good - on track
+2142,5384,21384.0,good - on track
+7819,6591,20398.0,good - on track
+10148,7072,20262.0,good - on track
+5126,6043,19928.0,good - on track
+2268,5429,19635.0,good - on track
+10001,7034,18515.0,good - on track
+10954,7230,18408.0,good - on track
+2413,5463,16456.0,good - on track
+9140,6852,15698.0,good - on track
+7559,6539,11726.0,good - on track
+6453,6312,10640.0,good - on track
+8268,6688,8257.0,good - on track
+6061,6234,4719.0,good - on track
+5120,6038,316733.0,good-loan repaid
+4576,5918,291865.0,good-loan repaid
+7523,6526,280455.0,good-loan repaid
+11013,7240,270161.0,good-loan repaid
+8489,6725,257950.0,good-loan repaid
+10320,7104,255411.0,good-loan repaid
+10663,7176,252805.0,good-loan repaid
+1762,5310,241255.0,good-loan repaid
+10093,7057,225260.0,good-loan repaid
+8982,6808,221550.0,good-loan repaid
+8260,6686,218365.0,good-loan repaid
+11042,7243,211120.0,good-loan repaid
+6555,6336,206500.0,good-loan repaid
+5481,6120,204826.0,good-loan repaid
+8051,6647,203980.0,good-loan repaid
+1978,5351,199500.0,good-loan repaid
+10940,7226,192255.0,good-loan repaid
+7769,6580,191995.0,good-loan repaid
+10630,7166,189980.0,good-loan repaid
+5256,6072,188580.0,good-loan repaid
+4448,5887,187390.0,good-loan repaid
+7815,6589,181792.0,good-loan repaid
+846,5136,179308.0,good-loan repaid
+11135,7262,177555.0,good-loan repaid
+9104,6841,168495.0,good-loan repaid
+5228,6066,166566.0,good-loan repaid
+2167,5390,163162.0,good-loan repaid
+1801,5316,161350.0,good-loan repaid
+67,4973,159045.0,good-loan repaid
+2361,5453,152320.0,good-loan repaid
+10973,7235,151199.0,good-loan repaid
+8127,6667,149385.0,good-loan repaid
+7184,6471,149155.0,good-loan repaid
+1166,5189,145935.0,good-loan repaid
+10439,7137,145245.0,good-loan repaid
+4937,6004,137908.0,good-loan repaid
+8041,6645,136500.0,good-loan repaid
+4851,5988,135746.0,good-loan repaid
+5952,6216,135355.0,good-loan repaid
+9656,6965,133722.0,good-loan repaid
+8316,6694,129168.0,good-loan repaid
+10911,7220,127645.0,good-loan repaid
+9188,6863,124962.0,good-loan repaid
+11362,7308,124016.0,good-loan repaid
+9828,6996,121325.0,good-loan repaid
+290,5032,121119.0,good-loan repaid
+10411,7130,118266.0,good-loan repaid
+9403,6919,117530.0,good-loan repaid
+10105,7061,116817.0,good-loan repaid
+10738,7192,112770.0,good-loan repaid
+4894,5997,112148.0,good-loan repaid
+9731,6985,110635.0,good-loan repaid
+9494,6934,107096.0,good-loan repaid
+2762,5533,106743.0,good-loan repaid
+6434,6309,105547.0,good-loan repaid
+5001,6015,105524.0,good-loan repaid
+11111,7259,105140.0,good-loan repaid
+4727,5959,103155.0,good-loan repaid
+1843,5325,102865.0,good-loan repaid
+9583,6949,100349.0,good-loan repaid
+9591,6950,100349.0,good-loan repaid
+173,5002,96074.0,good-loan repaid
+2343,5449,95197.0,good-loan repaid
+5650,6157,94484.0,good-loan repaid
+97,4986,94303.0,good-loan repaid
+1012,5161,94093.0,good-loan repaid
+4414,5877,93173.0,good-loan repaid
+2106,5375,93060.0,good-loan repaid
+6701,6356,92750.0,good-loan repaid
+2705,5523,91280.0,good-loan repaid
+11079,7253,90112.0,good-loan repaid
+8039,6644,89700.0,good-loan repaid
+9833,6998,89496.0,good-loan repaid
+7907,6612,89276.0,good-loan repaid
+2227,5413,89102.0,good-loan repaid
+9814,6995,88154.0,good-loan repaid
+2419,5464,87824.0,good-loan repaid
+7844,6596,87768.0,good-loan repaid
+7485,6520,87400.0,good-loan repaid
+544,5088,87354.0,good-loan repaid
+11138,7263,86135.0,good-loan repaid
+2116,5377,84700.0,good-loan repaid
+8261,6687,84180.0,good-loan repaid
+2694,5519,83996.0,good-loan repaid
+10049,7046,83996.0,good-loan repaid
+6273,6279,83720.0,good-loan repaid
+4361,5868,82643.0,good-loan repaid
+11231,7277,81840.0,good-loan repaid
+132,4996,81070.0,good-loan repaid
+7926,6613,80615.0,good-loan repaid
+4427,5882,80498.0,good-loan repaid
+10361,7119,79640.0,good-loan repaid
+9236,6876,79398.0,good-loan repaid
+9422,6921,79002.0,good-loan repaid
+2062,5366,79002.0,good-loan repaid
+7401,6499,77579.0,good-loan repaid
+2,4959,77579.0,good-loan repaid
+4259,5836,76314.0,good-loan repaid
+5270,6077,76291.0,good-loan repaid
+5622,6150,76098.0,good-loan repaid
+3050,5595,75988.0,good-loan repaid
+8173,6678,73645.0,good-loan repaid
+8564,6737,73485.0,good-loan repaid
+9640,6960,73232.0,good-loan repaid
+5196,6059,73172.0,good-loan repaid
+8129,6668,72660.0,good-loan repaid
+1603,5285,72358.0,good-loan repaid
+4423,5880,71785.0,good-loan repaid
+10068,7051,71324.0,good-loan repaid
+8027,6642,71170.0,good-loan repaid
+718,5117,70532.0,good-loan repaid
+3747,5739,70015.0,good-loan repaid
+4863,5992,69740.0,good-loan repaid
+1256,5212,69090.0,good-loan repaid
+8519,6729,68464.0,good-loan repaid
+11065,7249,67915.0,good-loan repaid
+4415,5878,67870.0,good-loan repaid
+7859,6599,66110.0,good-loan repaid
+3754,5741,65688.0,good-loan repaid
+7965,6624,65505.0,good-loan repaid
+3249,5638,62447.0,good-loan repaid
+7857,6598,62436.0,good-loan repaid
+8688,6753,62315.0,good-loan repaid
+7454,6512,61993.0,good-loan repaid
+10807,7201,61842.0,good-loan repaid
+3455,5682,61842.0,good-loan repaid
+5991,6223,59784.0,good-loan repaid
+5891,6202,59752.0,good-loan repaid
+3804,5750,57981.0,good-loan repaid
+6148,6253,57270.0,good-loan repaid
+2153,5388,56430.0,good-loan repaid
+7445,6509,53061.0,good-loan repaid
+9337,6903,49956.0,good-loan repaid
+7753,6577,49542.0,good-loan repaid
+11359,7305,49522.0,good-loan repaid
+4337,5861,49266.0,good-loan repaid
+2187,5398,49016.0,good-loan repaid
+825,5134,48653.0,good-loan repaid
+11265,7284,48389.0,good-loan repaid
+7133,6460,47320.0,good-loan repaid
+816,5131,46598.0,good-loan repaid
+8625,6745,45333.0,good-loan repaid
+2322,5445,44390.0,good-loan repaid
+1375,5237,43447.0,good-loan repaid
+7123,6456,43098.0,good-loan repaid
+3489,5693,42251.0,good-loan repaid
+10789,7199,41954.0,good-loan repaid
+10788,7198,41954.0,good-loan repaid
+11141,7264,41195.0,good-loan repaid
+5574,6137,40909.0,good-loan repaid
+5593,6144,40678.0,good-loan repaid
+6472,6315,39567.0,good-loan repaid
+7957,6621,39325.0,good-loan repaid
+8505,6727,39270.0,good-loan repaid
+7546,6535,38456.0,good-loan repaid
+9307,6895,38412.0,good-loan repaid
+9263,6887,36278.0,good-loan repaid
+9265,6888,36278.0,good-loan repaid
+3229,5634,35772.0,good-loan repaid
+2018,5358,35310.0,good-loan repaid
+9034,6820,34969.0,good-loan repaid
+6738,6362,34749.0,good-loan repaid
+6425,6306,33627.0,good-loan repaid
+9472,6929,33363.0,good-loan repaid
+9897,7008,33154.0,good-loan repaid
+6440,6310,31691.0,good-loan repaid
+4626,5932,30569.0,good-loan repaid
+7607,6546,30406.0,good-loan repaid
+8742,6758,30382.0,good-loan repaid
+5774,6185,29877.0,good-loan repaid
+2962,5576,28644.0,good-loan repaid
+8159,6676,28543.0,good-loan repaid
+7424,6502,27753.0,good-loan repaid
+25,4962,27753.0,good-loan repaid
+6030,6227,27071.0,good-loan repaid
+7765,6578,25652.0,good-loan repaid
+176,5005,25168.0,good-loan repaid
+6930,6407,24863.0,good-loan repaid
+2486,5479,22473.0,good-loan repaid
+813,5130,22286.0,good-loan repaid
+3674,5723,21659.0,good-loan repaid
+1329,5229,21560.0,good-loan repaid
+10364,7121,21315.0,good-loan repaid
+9242,6878,21252.0,good-loan repaid
+7861,6600,21245.0,good-loan repaid
+3834,5754,21131.0,good-loan repaid
+8475,6721,20194.0,good-loan repaid
+4825,5980,19613.0,good-loan repaid
+4580,5922,18535.0,good-loan repaid
+3329,5651,17644.0,good-loan repaid
+3752,5740,17017.0,good-loan repaid
+9513,6942,16797.0,good-loan repaid
+6363,6297,16049.0,good-loan repaid
+6792,6377,15752.0,good-loan repaid
+4476,5897,14559.0,good-loan repaid
+3064,5599,14135.0,good-loan repaid
+5215,6064,13409.0,good-loan repaid
+3637,5718,12859.0,good-loan repaid
+666,5103,11495.0,good-loan repaid
+6040,6229,11247.0,good-loan repaid
+5033,6019,10450.0,good-loan repaid
+8330,6699,7337.0,good-loan repaid
+3354,5657,4565.0,good-loan repaid
+2335,5447,532180.0,in debt- contract running
+10451,7142,474891.0,in debt- contract running
+7966,6625,465392.0,in debt- contract running
+4794,5976,455806.0,in debt- contract running
+3711,5731,453297.0,in debt- contract running
+6075,6237,399453.0,in debt- contract running
+1583,5282,380418.0,in debt- contract running
+10857,7209,379134.0,in debt- contract running
+6083,6239,353346.0,in debt- contract running
+442,5063,350385.0,in debt- contract running
+4858,5991,328201.0,in debt- contract running
+8381,6705,326697.0,in debt- contract running
+5213,6063,314289.0,in debt- contract running
+37,4967,313172.0,in debt- contract running
+3678,5724,310871.0,in debt- contract running
+3859,5758,302080.0,in debt- contract running
+2051,5363,288982.0,in debt- contract running
+5735,6175,285855.0,in debt- contract running
+3037,5593,270165.0,in debt- contract running
+9138,6851,267683.0,in debt- contract running
+103,4988,257950.0,in debt- contract running
+8085,6655,256060.0,in debt- contract running
+10365,7122,253400.0,in debt- contract running
+426,5060,247859.0,in debt- contract running
+3084,5606,246470.0,in debt- contract running
+6158,6255,242755.0,in debt- contract running
+3189,5625,218477.0,in debt- contract running
+808,5128,211124.0,in debt- contract running
+472,5072,188600.0,in debt- contract running
+3166,5624,174041.0,in debt- contract running
+9750,6986,148567.0,in debt- contract running
+2236,5415,135590.0,in debt- contract running
+6715,6358,135582.0,in debt- contract running
+4995,6013,125405.0,in debt- contract running
+5267,6075,123924.0,in debt- contract running
+5700,6169,101952.0,in debt- contract running
+9017,6816,98136.0,in debt- contract running
+1247,5208,97619.0,in debt- contract running
+4127,5817,96600.0,in debt- contract running
+3967,5784,82250.0,in debt- contract running
+9052,6824,68977.0,in debt- contract running
+4618,5931,63917.0,in debt- contract running
+7052,6437,62195.0,in debt- contract running
+9633,6959,56971.0,in debt- contract running
+8225,6682,33187.0,in debt- contract running

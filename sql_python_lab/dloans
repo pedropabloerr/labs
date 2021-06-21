@@ -1,0 +1,77 @@
+districtname,region,totalborrrowed,noofloanstaken,avgloanvalue,avg_salary
+Brno - mesto,south Moravia,4049400.0,24,168725.0,9897.0
+Ostrava - mesto,north Moravia,3260220.0,20,163011.0,10673.0
+Karvina,north Moravia,3059820.0,24,127493.0,10177.0
+Zlin,south Moravia,3012768.0,17,177222.0,9624.0
+Prachatice,south Bohemia,2356692.0,14,168335.0,8402.0
+Olomouc,north Moravia,2287596.0,14,163400.0,8994.0
+Usti nad Orlici,east Bohemia,2213160.0,14,158083.0,8363.0
+Svitavy,east Bohemia,2100084.0,12,175007.0,8187.0
+Kutna Hora,central Bohemia,2095980.0,9,232887.0,8546.0
+Frydek - Mistek,north Moravia,2053752.0,16,128360.0,9893.0
+Ceske Budejovice,south Bohemia,2010924.0,8,251366.0,10045.0
+Jesenik,north Moravia,1938432.0,8,242304.0,8173.0
+Kolin,central Bohemia,1901160.0,10,190116.0,9307.0
+Nachod,east Bohemia,1768380.0,6,294730.0,8369.0
+Uherske Hradiste,south Moravia,1682040.0,10,168204.0,8544.0
+Pardubice,east Bohemia,1648368.0,10,164837.0,9538.0
+Louny,north Bohemia,1540056.0,13,118466.0,8965.0
+Opava,north Moravia,1493076.0,8,186635.0,8746.0
+Beroun,central Bohemia,1460796.0,6,243466.0,8980.0
+Chrudim,east Bohemia,1431684.0,8,178961.0,8254.0
+Jindrichuv Hradec,south Bohemia,1339572.0,11,121779.0,8427.0
+Plzen - sever,west Bohemia,1338984.0,7,191283.0,8594.0
+Rokycany,west Bohemia,1329204.0,8,166151.0,8843.0
+Zdar nad Sazavou,south Moravia,1326540.0,7,189506.0,8512.0
+Pribram,central Bohemia,1299192.0,8,162399.0,8754.0
+Plzen - jih,west Bohemia,1294188.0,9,143799.0,8561.0
+Bruntal,north Moravia,1277796.0,6,212966.0,8110.0
+Praha - zapad,central Bohemia,1233096.0,11,112100.0,9622.0
+Brno - venkov,south Moravia,1232232.0,10,123223.0,8743.0
+Strakonice,south Bohemia,1224492.0,6,204082.0,8547.0
+Havlickuv Brod,east Bohemia,1193208.0,7,170458.0,8388.0
+Hodonin,south Moravia,1191504.0,6,198584.0,8720.0
+Blansko,south Moravia,1191024.0,7,170146.0,8240.0
+Breclav,south Moravia,1176792.0,7,168113.0,8772.0
+Prostejov,south Moravia,1138812.0,9,126535.0,8441.0
+Litomerice,north Bohemia,1116228.0,7,159461.0,9065.0
+Kladno,central Bohemia,1106520.0,7,158074.0,9753.0
+Trutnov,east Bohemia,1076580.0,6,179430.0,8541.0
+Nymburk,central Bohemia,1005084.0,9,111676.0,8899.0
+Liberec,north Bohemia,971292.0,7,138756.0,9198.0
+Tabor,south Bohemia,964944.0,7,137849.0,9104.0
+Rakovnik,central Bohemia,960744.0,8,120093.0,8598.0
+Kromeriz,south Moravia,960072.0,9,106675.0,8444.0
+Tachov,west Bohemia,959784.0,8,119973.0,8930.0
+Znojmo,south Moravia,944376.0,6,157396.0,8403.0
+Chomutov,north Bohemia,923916.0,9,102657.0,9675.0
+Benesov,central Bohemia,887952.0,6,147992.0,8507.0
+Teplice,north Bohemia,872748.0,6,145458.0,9317.0
+Praha - vychod,central Bohemia,859464.0,5,171893.0,10124.0
+Jicin,east Bohemia,851364.0,7,121623.0,8390.0
+Karlovy Vary,west Bohemia,845196.0,8,105650.0,8991.0
+Sumperk,north Moravia,829644.0,5,165929.0,8369.0
+Vyskov,south Moravia,777192.0,7,111027.0,8288.0
+Plzen - mesto,west Bohemia,756804.0,6,126134.0,10787.0
+Rychnov nad Kneznou,east Bohemia,754044.0,6,125674.0,9060.0
+Prerov,north Moravia,695628.0,4,173907.0,8819.0
+Novy Jicin,north Moravia,694368.0,6,115728.0,8678.0
+Hradec Kralove,east Bohemia,630672.0,5,126134.0,9425.0
+Trebic,south Moravia,630000.0,6,105000.0,8814.0
+Mlada Boleslav,central Bohemia,617520.0,5,123504.0,11277.0
+Most,north Bohemia,615060.0,5,123012.0,10446.0
+Cesky Krumlov,south Bohemia,584328.0,7,83475.0,9045.0
+Melnik,central Bohemia,557796.0,6,92966.0,9920.0
+Decin,north Bohemia,509952.0,4,127488.0,8705.0
+Vsetin,north Moravia,490980.0,6,81830.0,8909.0
+Pisek,south Bohemia,477492.0,3,159164.0,8968.0
+Ceska Lipa,north Bohemia,462684.0,6,77114.0,9272.0
+Cheb,west Bohemia,438816.0,4,109704.0,8624.0
+Pelhrimov,south Bohemia,415692.0,4,103923.0,8114.0
+Domazlice,west Bohemia,397008.0,2,198504.0,8620.0
+Jihlava,south Moravia,366096.0,4,91524.0,8757.0
+Usti nad Labem,north Bohemia,347484.0,3,115828.0,9832.0
+Semily,east Bohemia,276180.0,3,92060.0,8208.0
+Klatovy,west Bohemia,270876.0,3,90292.0,8554.0
+Sokolov,west Bohemia,148524.0,2,74262.0,9650.0
+Jablonec n. Nisou,north Bohemia,127200.0,1,127200.0,8867.0
